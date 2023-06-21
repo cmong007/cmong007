@@ -1,17 +1,25 @@
 <h1>Hi, I'm Chun Ming! 😄
 
-<h2>💬 Data Analytics Projects 💬</h2>
+
+<h2>📊 Data Analytics Projects 📊</h2>
 
 - [Pet retailer case study](https://github.com/cmong007/retailcasestudy)
 
 
 
 
-<h2> Finance Projects </h2>
+<h2>📈 Finance Projects 📈 </h2>
 
-- [Trading strategy case study](input repo)
-- [Computing IRR](input repo)
+- [Trading strategy case study](WIP)
+- [Computing IRR](WIP)
 
+<h2> Skills </h2>
+
+[![My Skills](https://skillicons.dev/icons?i=python,postgres&theme=light)](https://skillicons.dev)
+
+others:
+
+ - VBA , Power BI , Tableau , Excel
 
 <h2> Certifications </h2>
 
