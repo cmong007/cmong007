@@ -2,7 +2,7 @@
 
 <h2>💬 Data Analytics Projects 💬</h2>
 
-- [Pet retailer case study](input repo)
+- [Pet retailer case study](https://github.com/cmong007/retailcasestudy)
 
 
 
