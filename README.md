@@ -10,8 +10,8 @@
 
 <h2>📈 Finance Projects 📈 </h2>
 
-- [Trading strategy case study](WIP)
-- [Computing IRR](WIP)
+- [Trading strategy case study-WIP]
+- [Computing IRR- WIP])
 
 <h2> Skills </h2>
 
