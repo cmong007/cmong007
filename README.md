@@ -6,11 +6,10 @@
 - [Pet retailer case study](https://github.com/cmong007/retailcasestudy)
 
 
-
-
-<h2>📈 Finance Projects 📈 </h2>
+<h2> Finance Projects 📈 </h2>
 
 - [Trading strategy case study](https://github.com/cmong007/TradingSimulation/)
+- [Financial Dashboard test case] 
 
 <h2> Skills </h2>
 
