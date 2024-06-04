@@ -1,7 +1,7 @@
-<h1>Hi, I'm Chun Ming! 😄
+<h1>Hi, I'm Chun Ming!
 
 
-<h2>📊 Data Analytics Projects 📊</h2>
+<h2>Data Analytics Projects/h2>
 
 - [Pet retailer case study](https://github.com/cmong007/retailcasestudy)
 
@@ -9,7 +9,7 @@
 <h2> Finance Projects 📈 </h2>
 
 - [Trading strategy case study](https://github.com/cmong007/TradingSimulation/)
-- [Financial Dashboard test case] 
+- [Financial Dashboard test case](https://github.com/cmong007/Finance-DashBoard/)
 
 <h2> Skills </h2>
 
