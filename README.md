@@ -1,7 +1,7 @@
 <h1>Hi, I'm Chun Ming!
 
 
-<h2>Data Analytics Projects/h2>
+<h2>Data Analytics Projects</h2>
 
 - [Pet retailer case study](https://github.com/cmong007/retailcasestudy)
 
