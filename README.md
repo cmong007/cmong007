@@ -27,8 +27,8 @@ others:
 
 <h5> In progress: </h5>
 
-- Bsc Finance (Jun 2024)
-- CFA level 1 (Feb 2024)
+- Bsc Finance
+
 
 
 <h2> Connect with me </h2>
